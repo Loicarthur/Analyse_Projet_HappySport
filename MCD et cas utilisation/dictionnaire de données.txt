@@ -1,0 +1,242 @@
+Dictionnaire de données 
+
+Nom : mail
+Code : MAIL
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : nom
+Code : NOM
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : telephone
+Code : TELEPHONE
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : type
+Code : TYPE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : adresse
+Code : ADRESSE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : points
+Code : POINTS
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : photo
+Code : PHOTO
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : age
+Code : AGE
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : abonnement
+Code : ABONNEMENT
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : rib
+Code : RIB
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : sexe
+Code : SEXE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : password
+Code : PASSWORD
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : id
+Code : ID
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : debut
+Code : DEBUT
+Type : DATE
+Taille : ,
+Commentaire : 
+
+Nom : duree
+Code : DUREE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : montant
+Code : MONTANT
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : quantite
+Code : QUANTITE
+Type : INT
+Taille : 50,
+Commentaire : 
+
+Nom : prixHT
+Code : PRIXHT
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : reduction
+Code : REDUCTION
+Type : FLOAT
+Taille : ,
+Commentaire : 
+
+Nom : capacite
+Code : CAPACITE
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : prix
+Code : PRIX
+Type : FLOAT
+Taille : ,
+Commentaire : 
+
+Nom : disponibilite
+Code : DISPONIBILITE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : prixHT
+Code : PRIXHT
+Type : FLOAT
+Taille : ,
+Commentaire : 
+
+Nom : code
+Code : CODE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : produit
+Code : PRODUIT
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : paiement
+Code : PAIEMENT
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : numero
+Code : NUMERO
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : annee
+Code : ANNEE
+Type : YEAR
+Taille : ,
+Commentaire : 
+
+Nom : date
+Code : DATE
+Type : DATE
+Taille : ,
+Commentaire : 
+
+Nom : duree
+Code : DUREE
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : nombreReservation
+Code : NOMBRERESERVATION
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : montant
+Code : MONTANT
+Type : FLOAT
+Taille : ,
+Commentaire : 
+
+Nom : point
+Code : POINT
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : montant
+Code : MONTANT
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : fin
+Code : FIN
+Type : DATE
+Taille : ,
+Commentaire : 
+
+Nom : comptoir
+Code : COMPTOIR
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : licence
+Code : LICENCE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : repas
+Code : REPAS
+Type : INT
+Taille : ,
+Commentaire : 
+
+Nom : preferences
+Code : PREFERENCES
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : status
+Code : STATUS
+Type : VARCHAR
+Taille : 200,
+Commentaire : 
+
